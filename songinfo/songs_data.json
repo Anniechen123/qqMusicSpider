@@ -1,0 +1,1096 @@
+{
+    "like": [
+        {
+            "songmid": "0041oeT01PSZJz",
+            "songname": "WISH",
+            "singername": "费启鸣",
+            "songtime": 228,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000041oeT01PSZJz.m4a?vkey=27E2BC86CD0BDF89CF1E6FE03147ECA5F1E4532703A3B52880A8F2681055F66511028D592117819E3F5B9C1FD05389842FEF7CB5FC47843E&guid=9602668140&uin=0&fromtag=66",
+            "serial": 0,
+            "imgurl": "static/songs/Like/WISH/WISH.png",
+            "songurl": "static/songs/Like/WISH/WISH.mp3"
+        },
+        {
+            "songmid": "004b5Inf3ThBts",
+            "songname": "一路上有你",
+            "singername": "张学友",
+            "songtime": 288,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004b5Inf3ThBts.m4a?vkey=610CA4E86150F6D2D6556FCCC1D9BA116C46F01F7FD7909A1C5A6C21D1F50CADA914B282CCD37D8ED57644FEC31A4F67FBEFC84E4128346E&guid=9602668140&uin=0&fromtag=66",
+            "serial": 1,
+            "imgurl": "static/songs/Like/一路上有你/一路上有你.png",
+            "songurl": "static/songs/Like/一路上有你/一路上有你.mp3"
+        },
+        {
+            "songmid": "003UvNT90rngY5",
+            "songname": "不及雨",
+            "singername": "张碧晨",
+            "songtime": 253,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003UvNT90rngY5.m4a?vkey=39B6F6AA699FA366A7D8A46CDC8D9EC38CD040FF76CB1A8373A851523C6EAB512133EE234D1B1D30EF739479BD8A123BF5DCD446688AC763&guid=9602668140&uin=0&fromtag=66",
+            "serial": 2,
+            "imgurl": "static/songs/Like/不及雨/不及雨.png",
+            "songurl": "static/songs/Like/不及雨/不及雨.mp3"
+        },
+        {
+            "songmid": "001Q3Rlo428b8g",
+            "songname": "不哭 (《悲伤逆流成河》电影推广曲)",
+            "singername": "Sunnee",
+            "songtime": 276,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001Q3Rlo428b8g.m4a?vkey=135E69495A3BAD1794654855F29250F1E4BE368559E0D180634FFCBCE445CD8A2495309D93502E9A7F860632D8C1101380292781FDEC9D78&guid=9602668140&uin=0&fromtag=66",
+            "serial": 3,
+            "imgurl": "static/songs/Like/不哭 (《悲伤逆流成河》电影推广曲)/不哭 (《悲伤逆流成河》电影推广曲).png",
+            "songurl": "static/songs/Like/不哭 (《悲伤逆流成河》电影推广曲)/不哭 (《悲伤逆流成河》电影推广曲).mp3"
+        },
+        {
+            "songmid": "001kQq0u0nS4Vc",
+            "songname": "不得不爱",
+            "singername": "潘玮柏 / 弦子",
+            "songtime": 279,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001kQq0u0nS4Vc.m4a?vkey=2BA9D67A64AAB12B7BD71145216DB0922771F9D4C1E4EF7FC9EFC7B557EB92A5A9615A6DECB080411BCBA41B1F36DD8E90991A47D5D58E52&guid=9602668140&uin=0&fromtag=66",
+            "serial": 4,
+            "imgurl": "static/songs/Like/不得不爱/不得不爱.png",
+            "songurl": "static/songs/Like/不得不爱/不得不爱.mp3"
+        },
+        {
+            "songmid": "000gMXIg4Epw7i",
+            "songname": "丘比特点赞",
+            "singername": "牛奶咖啡",
+            "songtime": 214,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000gMXIg4Epw7i.m4a?vkey=7F0716CC6D81FA75B3B4C25A8DF85377775B955E23E463B8D5D1A20A60DD59A92096443C6C9752479F99921FCC05A9B1BFEC8C11A1404999&guid=9602668140&uin=0&fromtag=66",
+            "serial": 5,
+            "imgurl": "static/songs/Like/丘比特点赞/丘比特点赞.png",
+            "songurl": "static/songs/Like/丘比特点赞/丘比特点赞.mp3"
+        },
+        {
+            "songmid": "003m5KpX2xn6wO",
+            "songname": "为你写诗",
+            "singername": "吴克群",
+            "songtime": 285,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003m5KpX2xn6wO.m4a?vkey=1A28FF51C1F308CC8037712CFB0A025DF11C797CCD11322254AECF96F4955C6D9CB744EBFE547C943F281951380E41A40CC6C32BA10ED0B7&guid=9602668140&uin=0&fromtag=66",
+            "serial": 6,
+            "imgurl": "static/songs/Like/为你写诗/为你写诗.png",
+            "songurl": "static/songs/Like/为你写诗/为你写诗.mp3"
+        },
+        {
+            "songmid": "000uDY5y10Hll3",
+            "songname": "你是我的糖 (《红色青橄榄》电视剧主题曲)",
+            "singername": "金莎",
+            "songtime": 190,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000uDY5y10Hll3.m4a?vkey=48C03BBE7C8FB980D44A5A673FA3BE113686B972F4E7BC27424DE2E909B0DF81741FF29751380B66702F0FE2511659C2740CCDDC51522E40&guid=9602668140&uin=0&fromtag=66",
+            "serial": 7,
+            "imgurl": "static/songs/Like/你是我的糖 (《红色青橄榄》电视剧主题曲)/你是我的糖 (《红色青橄榄》电视剧主题曲).png",
+            "songurl": "static/songs/Like/你是我的糖 (《红色青橄榄》电视剧主题曲)/你是我的糖 (《红色青橄榄》电视剧主题曲).mp3"
+        },
+        {
+            "songmid": "003hzn4r1pUwR6",
+            "songname": "例外",
+            "singername": "孟佳",
+            "songtime": 228,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003hzn4r1pUwR6.m4a?vkey=589D2450C7678BF61CA559343A415B8BEB6FE8C6063646F1E96D89AF6BF307A84800E2886D82B99F560C7FBD915F94DB21A082EFF847A91D&guid=9602668140&uin=0&fromtag=66",
+            "serial": 8,
+            "imgurl": "static/songs/Like/例外/例外.png",
+            "songurl": "static/songs/Like/例外/例外.mp3"
+        },
+        {
+            "songmid": "000tZXOL1ElC7y",
+            "songname": "发现爱 (《可爱多》内地广告歌曲)",
+            "singername": "林俊杰 / 金莎",
+            "songtime": 222,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000tZXOL1ElC7y.m4a?vkey=274DEDE24B29F902897D372433579B97BCA83C1DE2C510EE1C1F7E6584CD6F89312539194A72F8F54163DD9EBB0E34F09326095AFB528A90&guid=9602668140&uin=0&fromtag=66",
+            "serial": 9,
+            "imgurl": "static/songs/Like/发现爱 (《可爱多》内地广告歌曲)/发现爱 (《可爱多》内地广告歌曲).png",
+            "songurl": "static/songs/Like/发现爱 (《可爱多》内地广告歌曲)/发现爱 (《可爱多》内地广告歌曲).mp3"
+        },
+        {
+            "songmid": "002l9Hys0bOiXh",
+            "songname": "嘘",
+            "singername": "愚青",
+            "songtime": 187,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002l9Hys0bOiXh.m4a?vkey=3BE5A28B089DDC931AC33449ED984D6A8584E2FC128F327E246AF0BA2C0AAF3707E344A7FE5DDAD5FD26621716D4EB7BDF389827D652DB72&guid=9602668140&uin=0&fromtag=66",
+            "serial": 10,
+            "imgurl": "static/songs/Like/嘘/嘘.png",
+            "songurl": "static/songs/Like/嘘/嘘.mp3"
+        },
+        {
+            "songmid": "004HdPmN0HZipA",
+            "songname": "因为爱情 (《将爱情进行到底》电影主题曲)",
+            "singername": "陈奕迅 / 王菲",
+            "songtime": 216,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004HdPmN0HZipA.m4a?vkey=7896F43855FA78FD899E5E0865AB01BFF9741EC209C949F8E9837BC7250BEC39C15BF93BD7F41F254AA9228DF382839BF47E46C39E807A06&guid=9602668140&uin=0&fromtag=66",
+            "serial": 11,
+            "imgurl": "static/songs/Like/因为爱情 (《将爱情进行到底》电影主题曲)/因为爱情 (《将爱情进行到底》电影主题曲).png",
+            "songurl": "static/songs/Like/因为爱情 (《将爱情进行到底》电影主题曲)/因为爱情 (《将爱情进行到底》电影主题曲).mp3"
+        },
+        {
+            "songmid": "004PyoQg4gSLI9",
+            "songname": "地平线 (《如若巴黎不快乐》电视剧片头曲)",
+            "singername": "郁可唯",
+            "songtime": 273,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004PyoQg4gSLI9.m4a?vkey=D1E59629DF5C4BAFA36EB7526F483FCF0C0FA954A151F33E0EE29F90FBF02A4D736401F6BCD17ED47F686BC24DCB850EA782CAA686917787&guid=9602668140&uin=0&fromtag=66",
+            "serial": 12,
+            "imgurl": "static/songs/Like/地平线 (《如若巴黎不快乐》电视剧片头曲)/地平线 (《如若巴黎不快乐》电视剧片头曲).png",
+            "songurl": "static/songs/Like/地平线 (《如若巴黎不快乐》电视剧片头曲)/地平线 (《如若巴黎不快乐》电视剧片头曲).mp3"
+        },
+        {
+            "songmid": "004O1DHG4MjYOi",
+            "songname": "大城小爱",
+            "singername": "王力宏",
+            "songtime": 224,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004O1DHG4MjYOi.m4a?vkey=1FD8F295F33AC8A03844FC9F56B7D1CD51D6D769A6F27E37E1267D3EC199C0EC002CA66F0BE6AC35E94586DC2E09987FD1DA59C2E1EE6A65&guid=9602668140&uin=0&fromtag=66",
+            "serial": 13,
+            "imgurl": "static/songs/Like/大城小爱/大城小爱.png",
+            "songurl": "static/songs/Like/大城小爱/大城小爱.mp3"
+        },
+        {
+            "songmid": "002xgnZO4GTEe4",
+            "songname": "如果那里不快乐 (《如若巴黎不快乐》电视剧主题曲)",
+            "singername": "张翰",
+            "songtime": 263,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002xgnZO4GTEe4.m4a?vkey=EF47AF833A02A3374AB338D8A38A4097A595933087A030D8BC207727930F7AD2FD52CA711961D38E76CDEAA902662971B74E15F4FB9FB665&guid=9602668140&uin=0&fromtag=66",
+            "serial": 14,
+            "imgurl": "static/songs/Like/如果那里不快乐 (《如若巴黎不快乐》电视剧主题曲)/如果那里不快乐 (《如若巴黎不快乐》电视剧主题曲).png",
+            "songurl": "static/songs/Like/如果那里不快乐 (《如若巴黎不快乐》电视剧主题曲)/如果那里不快乐 (《如若巴黎不快乐》电视剧主题曲).mp3"
+        },
+        {
+            "songmid": "000rfkdM1qtnjs",
+            "songname": "小情歌",
+            "singername": "苏打绿",
+            "songtime": 273,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000rfkdM1qtnjs.m4a?vkey=1A0E2B6DDDE621FCD0B58857FB082A278049CB6A23F02872F94D6BAF6523DC80259D39C1E7004B462790AD87D2198BD3BD7A9F5383492ED6&guid=9602668140&uin=0&fromtag=66",
+            "serial": 15,
+            "imgurl": "static/songs/Like/小情歌/小情歌.png",
+            "songurl": "static/songs/Like/小情歌/小情歌.mp3"
+        },
+        {
+            "songmid": "003h3CYS3UxDB4",
+            "songname": "小酒窝 (国语) (《爱情睡醒了》电视剧插曲)",
+            "singername": "林俊杰 / 蔡卓妍",
+            "songtime": 218,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003h3CYS3UxDB4.m4a?vkey=F1826D3FCACD253DA04D66DDA6988ADC93F609D5DC6F451577E6F26DC6F48A86B5A6EDA08842917AA982B39F6B2A1C17F0849147539B03D6&guid=9602668140&uin=0&fromtag=66",
+            "serial": 16,
+            "imgurl": "static/songs/Like/小酒窝 (国语) (《爱情睡醒了》电视剧插曲)/小酒窝 (国语) (《爱情睡醒了》电视剧插曲).png",
+            "songurl": "static/songs/Like/小酒窝 (国语) (《爱情睡醒了》电视剧插曲)/小酒窝 (国语) (《爱情睡醒了》电视剧插曲).mp3"
+        },
+        {
+            "songmid": "001nUzRq0GgCVb",
+            "songname": "当你",
+            "singername": "林俊杰",
+            "songtime": 249,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001nUzRq0GgCVb.m4a?vkey=6998D5276ED1A95725AFA1747289CD2391E48427816270A6EA24499ABE077ADFAB717F70D01B79A360534E98DDAF420C37F9A00F41948C4E&guid=9602668140&uin=0&fromtag=66",
+            "serial": 17,
+            "imgurl": "static/songs/Like/当你/当你.png",
+            "songurl": "static/songs/Like/当你/当你.mp3"
+        },
+        {
+            "songmid": "002NbtFA3fuJhD",
+            "songname": "微微一笑很倾城 (《微微一笑很倾城》电视剧片尾曲)",
+            "singername": "杨洋",
+            "songtime": 204,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002NbtFA3fuJhD.m4a?vkey=843E08EFF61CA3C3BC71EFA1F4F96ACE80333A5688B31F4E590DEF4A04744A7B67900CB44DEC3C0EEB4E9677298DA52CCA29771BEDA63D9B&guid=9602668140&uin=0&fromtag=66",
+            "serial": 18,
+            "imgurl": "static/songs/Like/微微一笑很倾城 (《微微一笑很倾城》电视剧片尾曲)/微微一笑很倾城 (《微微一笑很倾城》电视剧片尾曲).png",
+            "songurl": "static/songs/Like/微微一笑很倾城 (《微微一笑很倾城》电视剧片尾曲)/微微一笑很倾城 (《微微一笑很倾城》电视剧片尾曲).mp3"
+        },
+        {
+            "songmid": "0033HusA1Yc7rf",
+            "songname": "恋爱夏天",
+            "singername": "庄心妍",
+            "songtime": 231,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000033HusA1Yc7rf.m4a?vkey=1C3A735574526255984C5BB0E3E34E6628D7DDF6E5D148AE20D8CE44FC56E1C4A2677E2375BFE326723CF33E3E822031F49682E909ED57E5&guid=9602668140&uin=0&fromtag=66",
+            "serial": 19,
+            "imgurl": "static/songs/Like/恋爱夏天/恋爱夏天.png",
+            "songurl": "static/songs/Like/恋爱夏天/恋爱夏天.mp3"
+        },
+        {
+            "songmid": "002bQkhh0qt2DQ",
+            "songname": "想我的时候听这歌",
+            "singername": "阿悄 / 徐良",
+            "songtime": 214,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002bQkhh0qt2DQ.m4a?vkey=D83CA274FC98E8BA65909C1D3F22693751BA50CD4970364F9FC24D2925EBEC7030D32D7A7AB775AC428A7F2B8D56A59B01D370D66422EAC7&guid=9602668140&uin=0&fromtag=66",
+            "serial": 20,
+            "imgurl": "static/songs/Like/想我的时候听这歌/想我的时候听这歌.png",
+            "songurl": "static/songs/Like/想我的时候听这歌/想我的时候听这歌.mp3"
+        },
+        {
+            "songmid": "001qdEAa0KzTOa",
+            "songname": "时间停了",
+            "singername": "鹿晗",
+            "songtime": 227,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001qdEAa0KzTOa.m4a?vkey=7C794C5895E629331CDD0CB3E1C6912560126A726AF40D71DB5049819087B39BFED359C6C0FB6401DD0EB0504967466BDE76A20E22F8F0D0&guid=9602668140&uin=0&fromtag=66",
+            "serial": 21,
+            "imgurl": "static/songs/Like/时间停了/时间停了.png",
+            "songurl": "static/songs/Like/时间停了/时间停了.mp3"
+        },
+        {
+            "songmid": "004TuckM3z6kQ8",
+            "songname": "最好",
+            "singername": "杨洋",
+            "songtime": 258,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004TuckM3z6kQ8.m4a?vkey=E059CF3CB0606FEE1BD0D78AD0C863187EC422D9D5F0505201751D320B491A1E36C7191487E0377DB3A8A0AC4FFAEDC1BC5DADEDA95AA071&guid=9602668140&uin=0&fromtag=66",
+            "serial": 22,
+            "imgurl": "static/songs/Like/最好/最好.png",
+            "songurl": "static/songs/Like/最好/最好.mp3"
+        },
+        {
+            "songmid": "001yZ7Tf0kudte",
+            "songname": "爱，很简单 (《单身男女》电影插曲《单身男女2》主题曲)",
+            "singername": "陶喆",
+            "songtime": 269,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001yZ7Tf0kudte.m4a?vkey=00C848077EFD9644CC0952041287568782ECE2E15DBE7AF4E4ED6BEEE85D76CD5CE557DD309C0A4ADD9D65965027817CCFD4F9B46ED7EC15&guid=9602668140&uin=0&fromtag=66",
+            "serial": 23,
+            "imgurl": "static/songs/Like/爱，很简单 (《单身男女》电影插曲《单身男女2》主题曲)/爱，很简单 (《单身男女》电影插曲《单身男女2》主题曲).png",
+            "songurl": "static/songs/Like/爱，很简单 (《单身男女》电影插曲《单身男女2》主题曲)/爱，很简单 (《单身男女》电影插曲《单身男女2》主题曲).mp3"
+        },
+        {
+            "songmid": "003dIT9t46SLw8",
+            "songname": "终于等到你 (《咱们结婚吧》电视剧主题曲)",
+            "singername": "张靓颖",
+            "songtime": 295,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003dIT9t46SLw8.m4a?vkey=B2EEA3C1506894DEF7FE8CB19BA5B68BB905D2AB42482D843A7E5120C2C59389EFC8F4E227531F48BCEFE250A6C92CB5722C3109F5C57D14&guid=9602668140&uin=0&fromtag=66",
+            "serial": 24,
+            "imgurl": "static/songs/Like/终于等到你 (《咱们结婚吧》电视剧主题曲)/终于等到你 (《咱们结婚吧》电视剧主题曲).png",
+            "songurl": "static/songs/Like/终于等到你 (《咱们结婚吧》电视剧主题曲)/终于等到你 (《咱们结婚吧》电视剧主题曲).mp3"
+        },
+        {
+            "songmid": "002ASCKm3ROw7t",
+            "songname": "美人鱼",
+            "singername": "林俊杰",
+            "songtime": 253,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002ASCKm3ROw7t.m4a?vkey=5A40B2F9E90B96EA52F759DF8B75C5C4F235970FB632F53612BB5E65AB266B6543DC0E79CEC4BBBC5484676F2D4D787299DB1C59A596F1EB&guid=9602668140&uin=0&fromtag=66",
+            "serial": 25,
+            "imgurl": "static/songs/Like/美人鱼/美人鱼.png",
+            "songurl": "static/songs/Like/美人鱼/美人鱼.mp3"
+        },
+        {
+            "songmid": "002QOSPX0bEK4f",
+            "songname": "至少还有你",
+            "singername": "林忆莲",
+            "songtime": 274,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002QOSPX0bEK4f.m4a?vkey=1E920B95AD0705C2C52D65CD6FB085E14C367A8C60077DAAB48546ADB4F7851A8A3D01C191CE1BFDFE34307912C4A40D09B68C5292E3549C&guid=9602668140&uin=0&fromtag=66",
+            "serial": 26,
+            "imgurl": "static/songs/Like/至少还有你/至少还有你.png",
+            "songurl": "static/songs/Like/至少还有你/至少还有你.mp3"
+        },
+        {
+            "songmid": "000IqwGD0S1FjJ",
+            "songname": "花期",
+            "singername": "关晓彤",
+            "songtime": 186,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000IqwGD0S1FjJ.m4a?vkey=FED9C88BE5E0D72D40499DD6FB472A910869876E10B8A40C89DD576009AFAADB0BA104E026740F63F4336FD9BBBDB15F53442AC469A0399C&guid=9602668140&uin=0&fromtag=66",
+            "serial": 27,
+            "imgurl": "static/songs/Like/花期/花期.png",
+            "songurl": "static/songs/Like/花期/花期.mp3"
+        },
+        {
+            "songmid": "0018qunY0L4Bkx",
+            "songname": "被风吹过的夏天",
+            "singername": "金莎 / 林俊杰",
+            "songtime": 256,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000018qunY0L4Bkx.m4a?vkey=9DDEC02A3AFA1DC146C1F66B7B7C4B7505F47CC88A0B9309456A19439207877C2EB9111F3A98EC286C4EC2A2ECAEEAC77EC76B7397B9B46A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 28,
+            "imgurl": "static/songs/Like/被风吹过的夏天/被风吹过的夏天.png",
+            "songurl": "static/songs/Like/被风吹过的夏天/被风吹过的夏天.mp3"
+        },
+        {
+            "songmid": "0045vrnk3G6hkh",
+            "songname": "让我爱你 (《战神》电视剧片尾曲)",
+            "singername": "周渝民 / 徐熙媛",
+            "songtime": 300,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000045vrnk3G6hkh.m4a?vkey=DF4CD65431A9510F75B05BD1C6F73CFC47AB086359895F4F16D4ED6B976265E3961EFBF95DAF48BD0A54B6B38C546DB2C53F8DBF54D31065&guid=9602668140&uin=0&fromtag=66",
+            "serial": 29,
+            "imgurl": "static/songs/Like/让我爱你 (《战神》电视剧片尾曲)/让我爱你 (《战神》电视剧片尾曲).png",
+            "songurl": "static/songs/Like/让我爱你 (《战神》电视剧片尾曲)/让我爱你 (《战神》电视剧片尾曲).mp3"
+        },
+        {
+            "songmid": "001R1tlV14Pxl3",
+            "songname": "诺 (《剑网3·曲云传》舞台剧宣传曲)",
+            "singername": "苏诗丁",
+            "songtime": 245,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001R1tlV14Pxl3.m4a?vkey=3EA3C00610E6E09BD3CCAF6295BCB9EE67408F8A99A05C5C864DA6AFB84E254C7CB89CD8A6B325A1AA0C8E3BE2A3402F98498140039E4D46&guid=9602668140&uin=0&fromtag=66",
+            "serial": 30,
+            "imgurl": "static/songs/Like/诺 (《剑网3·曲云传》舞台剧宣传曲)/诺 (《剑网3·曲云传》舞台剧宣传曲).png",
+            "songurl": "static/songs/Like/诺 (《剑网3·曲云传》舞台剧宣传曲)/诺 (《剑网3·曲云传》舞台剧宣传曲).mp3"
+        }
+    ],
+    "dislike": [
+        {
+            "songmid": "001SSsiO01Vfnm",
+            "songname": "Dream Girl",
+            "singername": "孔令奇 / 王以太",
+            "songtime": 245,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001SSsiO01Vfnm.m4a?vkey=43C7573EBAD0F2A0CEDE1A370F442B3180F3682E415E4485392B6D32F81C71E5E6774E6417F2E03BCDD935F7F82F752D185F2D89EAF69B61&guid=9602668140&uin=0&fromtag=66",
+            "serial": 0,
+            "imgurl": "static/songs/Dislike/Dream Girl/Dream Girl.png",
+            "songurl": "static/songs/Like/Dream Girl/Dream Girl.mp3"
+        },
+        {
+            "songmid": "0025tZbb0cZPHT",
+            "songname": "I Am The Man",
+            "singername": "周汤豪",
+            "songtime": 159,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000025tZbb0cZPHT.m4a?vkey=0E91A9AA037136018E6E032D7C0423E6309EF7D3EEEA8A715D8CDE3A00988F96E57BEAB2CA08AE12BB2CDA21F628BF8047934A869452742E&guid=9602668140&uin=0&fromtag=66",
+            "serial": 1,
+            "imgurl": "static/songs/Dislike/I Am The Man/I Am The Man.png",
+            "songurl": "static/songs/Like/I Am The Man/I Am The Man.mp3"
+        },
+        {
+            "songmid": "000wjkHD1cSE3m",
+            "songname": "I'm OK",
+            "singername": "小青龙",
+            "songtime": 267,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000wjkHD1cSE3m.m4a?vkey=FC42BE79642DAB6999644740CD5E69606221EECE0414A31076B97E6BE370AFD745CC2FBE0DAE84736964C30E5AABE90AFCFB2491CD648787&guid=9602668140&uin=0&fromtag=66",
+            "serial": 2,
+            "imgurl": "static/songs/Dislike/I'm OK/I'm OK.png",
+            "songurl": "static/songs/Like/I'm OK/I'm OK.mp3"
+        },
+        {
+            "songmid": "004T877T2q0iCt",
+            "songname": "WHY",
+            "singername": "周洁琼 (주결경)",
+            "songtime": 159,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004T877T2q0iCt.m4a?vkey=BDA72288490CDDAFE032B327954853159F1510C475D6C65D981A4B1D690AB4DFA8E7DBB017B2B8038E12F2CC76EB7D65FDB36F2F3E42802C&guid=9602668140&uin=0&fromtag=66",
+            "serial": 3,
+            "imgurl": "static/songs/Dislike/WHY/WHY.png",
+            "songurl": "static/songs/Like/WHY/WHY.mp3"
+        },
+        {
+            "songmid": "002Jt38k48Ueoz",
+            "songname": "一个女人和浴室",
+            "singername": "谢安琪",
+            "songtime": 283,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002Jt38k48Ueoz.m4a?vkey=C5F97B64110D98C5A81B5CF16CB161082248B1C5C2D44ADB428172FDA23B826909F755705EC841AE450785A558E80872438AEC51EF69024A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 4,
+            "imgurl": "static/songs/Dislike/一个女人和浴室/一个女人和浴室.png",
+            "songurl": "static/songs/Like/一个女人和浴室/一个女人和浴室.mp3"
+        },
+        {
+            "songmid": "003phoB23LkWi5",
+            "songname": "不忧伤的爱 (《凉生，我们可不可以不忧伤》电视剧片头曲)",
+            "singername": "钟汉良",
+            "songtime": 279,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003phoB23LkWi5.m4a?vkey=1EAD8783DBE96EFEDCC676A28918A85EDB04A7785BDE15668831D2B2BE7418B7598947FE56F9F2AC3C35FD0987EB4AD49760429DE6622F82&guid=9602668140&uin=0&fromtag=66",
+            "serial": 5,
+            "imgurl": "static/songs/Dislike/不忧伤的爱 (《凉生，我们可不可以不忧伤》电视剧片头曲)/不忧伤的爱 (《凉生，我们可不可以不忧伤》电视剧片头曲).png",
+            "songurl": "static/songs/Like/不忧伤的爱 (《凉生，我们可不可以不忧伤》电视剧片头曲)/不忧伤的爱 (《凉生，我们可不可以不忧伤》电视剧片头曲).mp3"
+        },
+        {
+            "songmid": "001ugIB33FWpUW",
+            "songname": "不鼓自鸣",
+            "singername": "尚雯婕",
+            "songtime": 242,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001ugIB33FWpUW.m4a?vkey=48C45B73C9FF4F6B2921392BC9C9173739BC1BC3F8AE2FB60C6B65AED63962E4B7205D286B11D1AC42F07AE0D9BADD63CFBBDBEC3761CE46&guid=9602668140&uin=0&fromtag=66",
+            "serial": 6,
+            "imgurl": "static/songs/Dislike/不鼓自鸣/不鼓自鸣.png",
+            "songurl": "static/songs/Like/不鼓自鸣/不鼓自鸣.mp3"
+        },
+        {
+            "songmid": "0017xT361apG8T",
+            "songname": "为何你要背叛我 (《再创世纪》电视剧插曲)",
+            "singername": "吴若希",
+            "songtime": 274,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000017xT361apG8T.m4a?vkey=FAA0B9A924F63CA49FD4299D100A1FB392205B09B264883694B617F946D6D391A3A6CDCC9A7157E0C61FB891306A705BBCF9C4443B6B824B&guid=9602668140&uin=0&fromtag=66",
+            "serial": 7,
+            "imgurl": "static/songs/Dislike/为何你要背叛我 (《再创世纪》电视剧插曲)/为何你要背叛我 (《再创世纪》电视剧插曲).png",
+            "songurl": "static/songs/Like/为何你要背叛我 (《再创世纪》电视剧插曲)/为何你要背叛我 (《再创世纪》电视剧插曲).mp3"
+        },
+        {
+            "songmid": "003Z7I9N3UvdC5",
+            "songname": "为你 (《找到你》电影闺蜜主题曲)",
+            "singername": "姚晨 / 马伊琍",
+            "songtime": 258,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003Z7I9N3UvdC5.m4a?vkey=7C855DB90217BF698FE8CD49417C6017839ABC15748C0507798537976CE225D8A512B60057D5D60937E2D8C027D62F4A7440315AE9B8E1B8&guid=9602668140&uin=0&fromtag=66",
+            "serial": 8,
+            "imgurl": "static/songs/Dislike/为你 (《找到你》电影闺蜜主题曲)/为你 (《找到你》电影闺蜜主题曲).png",
+            "songurl": "static/songs/Like/为你 (《找到你》电影闺蜜主题曲)/为你 (《找到你》电影闺蜜主题曲).mp3"
+        },
+        {
+            "songmid": "0008aOkA3v4X0Q",
+            "songname": "今天你要嫁给我",
+            "singername": "陶喆 / 蔡依林",
+            "songtime": 272,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000008aOkA3v4X0Q.m4a?vkey=A438A1AAC2C28801DC97E9E259557C3B9CC684220FD56874C6846A1F9F968687071439AC1FB2644FC89DD379DA9343D870586DF0C995BB92&guid=9602668140&uin=0&fromtag=66",
+            "serial": 9,
+            "imgurl": "static/songs/Dislike/今天你要嫁给我/今天你要嫁给我.png",
+            "songurl": "static/songs/Like/今天你要嫁给我/今天你要嫁给我.mp3"
+        },
+        {
+            "songmid": "003ZgGs0284pPV",
+            "songname": "你也是吗",
+            "singername": "苏运莹",
+            "songtime": 189,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003ZgGs0284pPV.m4a?vkey=E9D131FE1A9D98F388AB3D026F356CA8670F20215716BA976B94D671D26C011D627D495CB4AF410B14FEC71E50290DEFB1CD2B5ECC401A3E&guid=9602668140&uin=0&fromtag=66",
+            "serial": 10,
+            "imgurl": "static/songs/Dislike/你也是吗/你也是吗.png",
+            "songurl": "static/songs/Like/你也是吗/你也是吗.mp3"
+        },
+        {
+            "songmid": "004JQlTM0tfMwD",
+            "songname": "你是我心内的一首歌",
+            "singername": "王力宏 / Selina",
+            "songtime": 166,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004JQlTM0tfMwD.m4a?vkey=6A3E072AB7571A0F52AA55A7D757525BAF73977F87B74AA0F06A19CD32EC9A61DC428277A202E8A9DC2DC5943C36A53C979CD3A6F09AA430&guid=9602668140&uin=0&fromtag=66",
+            "serial": 11,
+            "imgurl": "static/songs/Dislike/你是我心内的一首歌/你是我心内的一首歌.png",
+            "songurl": "static/songs/Like/你是我心内的一首歌/你是我心内的一首歌.mp3"
+        },
+        {
+            "songmid": "003gHHwb0q5MpQ",
+            "songname": "你最珍贵",
+            "singername": "张学友 / 高慧君",
+            "songtime": 286,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003gHHwb0q5MpQ.m4a?vkey=D2C81B3375C09D677D8B535D86CEE55F0AA29CF8FCBCD6877A6DB6F4288EA93B574AB395E1B155C0D149EF0F4A30BC305E5BBAAB85754E32&guid=9602668140&uin=0&fromtag=66",
+            "serial": 12,
+            "imgurl": "static/songs/Dislike/你最珍贵/你最珍贵.png",
+            "songurl": "static/songs/Like/你最珍贵/你最珍贵.mp3"
+        },
+        {
+            "songmid": "002yIiJc4XwcBK",
+            "songname": "你的微笑 (《一又二分之一的夏天》电视剧插曲)",
+            "singername": "飞儿乐团",
+            "songtime": 261,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002yIiJc4XwcBK.m4a?vkey=790368CAB356B0FA1020B7D181C8E0C24D21F80360B4911D6C2CD1566A7D56282C315DDAB1B80792F2DBCAF155C8D5AE7FE63658C5BC55C9&guid=9602668140&uin=0&fromtag=66",
+            "serial": 13,
+            "imgurl": "static/songs/Dislike/你的微笑 (《一又二分之一的夏天》电视剧插曲)/你的微笑 (《一又二分之一的夏天》电视剧插曲).png",
+            "songurl": "static/songs/Like/你的微笑 (《一又二分之一的夏天》电视剧插曲)/你的微笑 (《一又二分之一的夏天》电视剧插曲).mp3"
+        },
+        {
+            "songmid": "003wBwIl4O0Yf6",
+            "songname": "侘寂",
+            "singername": "李幸倪",
+            "songtime": 292,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003wBwIl4O0Yf6.m4a?vkey=6AA4378F12E5C4BBD57C0EFA6CAF00D14D779CD61A90032561AF042DA8237CBAB4BE7C0E2A7E34E9B55ED39C3B46359FF33CA263E5CC8EB2&guid=9602668140&uin=0&fromtag=66",
+            "serial": 14,
+            "imgurl": "static/songs/Dislike/侘寂/侘寂.png",
+            "songurl": "static/songs/Like/侘寂/侘寂.mp3"
+        },
+        {
+            "songmid": "003YfC8n2nLDG3",
+            "songname": "偷不走的现在 (《念念手纪》电影宣传推广曲)",
+            "singername": "于文文",
+            "songtime": 253,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003YfC8n2nLDG3.m4a?vkey=65FBC3417ADA9873F8F4F6800163022DF225B8A192B915A2B6214EB42A1B06342541F764E7CC470F23E5E1785F4C07C6810D98E9C1A9041D&guid=9602668140&uin=0&fromtag=66",
+            "serial": 15,
+            "imgurl": "static/songs/Dislike/偷不走的现在 (《念念手纪》电影宣传推广曲)/偷不走的现在 (《念念手纪》电影宣传推广曲).png",
+            "songurl": "static/songs/Like/偷不走的现在 (《念念手纪》电影宣传推广曲)/偷不走的现在 (《念念手纪》电影宣传推广曲).mp3"
+        },
+        {
+            "songmid": "001tIhQh0Xg8Xl",
+            "songname": "傀 (《影》电影主题曲)",
+            "singername": "Ella陈嘉桦",
+            "songtime": 241,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001tIhQh0Xg8Xl.m4a?vkey=8CAC495562F9AF77C6F357C32BEFB66983DD0D13B1B21F1A10B7270313846E5C22E460DEC290A466B22A6DDC40E6371AED8F59ABD3AE1848&guid=9602668140&uin=0&fromtag=66",
+            "serial": 16,
+            "imgurl": "static/songs/Dislike/傀 (《影》电影主题曲)/傀 (《影》电影主题曲).png",
+            "songurl": "static/songs/Like/傀 (《影》电影主题曲)/傀 (《影》电影主题曲).mp3"
+        },
+        {
+            "songmid": "003G8WyX44fRnx",
+            "songname": "光 (《橙红年代》电视剧主题曲)",
+            "singername": "陈伟霆",
+            "songtime": 246,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003G8WyX44fRnx.m4a?vkey=33CA75D6696002795ED2B34B279634F686B212C2AABC62352378B2D015184B1BBDBE7F05AEF15485B832704746E14AD38F3D9C30377E238C&guid=9602668140&uin=0&fromtag=66",
+            "serial": 17,
+            "imgurl": "static/songs/Dislike/光 (《橙红年代》电视剧主题曲)/光 (《橙红年代》电视剧主题曲).png",
+            "songurl": "static/songs/Like/光 (《橙红年代》电视剧主题曲)/光 (《橙红年代》电视剧主题曲).mp3"
+        },
+        {
+            "songmid": "001o6b5J1d6D7G",
+            "songname": "出现 (《李茶的姑妈》电影主题曲)",
+            "singername": "那英",
+            "songtime": 273,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001o6b5J1d6D7G.m4a?vkey=4BC31F868CD2F9E30B2AED8A57457FE0A6D8F8B11BFB001464C54BED7D79F58B2FBDA0B2B0B0FE625A51002510C992227284971AB8F8E324&guid=9602668140&uin=0&fromtag=66",
+            "serial": 18,
+            "imgurl": "static/songs/Dislike/出现 (《李茶的姑妈》电影主题曲)/出现 (《李茶的姑妈》电影主题曲).png",
+            "songurl": "static/songs/Like/出现 (《李茶的姑妈》电影主题曲)/出现 (《李茶的姑妈》电影主题曲).mp3"
+        },
+        {
+            "songmid": "0049gKZo2S2J1N",
+            "songname": "午夜的列车",
+            "singername": "南征北战NZBZ",
+            "songtime": 240,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000049gKZo2S2J1N.m4a?vkey=15C61ECA412D4E8363476BC036924DB0BFD61DF6FF30D69062EB95263E38548E2B9B92638C9D04E7381079270BABD7EE42E1A784F20A2445&guid=9602668140&uin=0&fromtag=66",
+            "serial": 19,
+            "imgurl": "static/songs/Dislike/午夜的列车/午夜的列车.png",
+            "songurl": "static/songs/Like/午夜的列车/午夜的列车.mp3"
+        },
+        {
+            "songmid": "000cllK43vvDxn",
+            "songname": "卸假",
+            "singername": "沈煜伦",
+            "songtime": 226,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000cllK43vvDxn.m4a?vkey=1505DBE86E73A68F82F3F6CB6369F73A2B0ADAE214C7B8233913E77BDA4D5BF945E78EF507F997F89E145E9A04BA18CF2B5DA9189A81AFEF&guid=9602668140&uin=0&fromtag=66",
+            "serial": 20,
+            "imgurl": "static/songs/Dislike/卸假/卸假.png",
+            "songurl": "static/songs/Like/卸假/卸假.mp3"
+        },
+        {
+            "songmid": "002o2FeK1A7EMz",
+            "songname": "双栖动物",
+            "singername": "胡夏",
+            "songtime": 294,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002o2FeK1A7EMz.m4a?vkey=55BD8A8EAB2F3DD38D7C4F461DAE1263913AA59C1AAC07CDDF5678A1C25647293EEF9B06EF477303B09E2B38F291188A34DE994E3FFE4257&guid=9602668140&uin=0&fromtag=66",
+            "serial": 21,
+            "imgurl": "static/songs/Dislike/双栖动物/双栖动物.png",
+            "songurl": "static/songs/Like/双栖动物/双栖动物.mp3"
+        },
+        {
+            "songmid": "001v5cGT2hCYhU",
+            "songname": "只对你有感觉",
+            "singername": "林俊杰",
+            "songtime": 266,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001v5cGT2hCYhU.m4a?vkey=75A7F0265E92E24DBEF36126943977EE21747CA78413A47E875AB9A29856F63BC526347469D737A0B4F9F71383DA3AE9831C60F9991C36BD&guid=9602668140&uin=0&fromtag=66",
+            "serial": 22,
+            "imgurl": "static/songs/Dislike/只对你有感觉/只对你有感觉.png",
+            "songurl": "static/songs/Like/只对你有感觉/只对你有感觉.mp3"
+        },
+        {
+            "songmid": "000ngLZt2yr3Cz",
+            "songname": "只怕你",
+            "singername": "金志文 / 吕雯",
+            "songtime": 207,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000ngLZt2yr3Cz.m4a?vkey=D68582D1574B94C9610E880D0A4B3D24BC20D52AF54CDA9E60E9E3CDCC2A01BEAC0A73E75185BD8757F828665A731F842059A639038D9479&guid=9602668140&uin=0&fromtag=66",
+            "serial": 23,
+            "imgurl": "static/songs/Dislike/只怕你/只怕你.png",
+            "songurl": "static/songs/Like/只怕你/只怕你.mp3"
+        },
+        {
+            "songmid": "003UOlr74EgZzQ",
+            "songname": "只想与你再一起 (《再创世纪》电视剧片尾曲)",
+            "singername": "HANA",
+            "songtime": 234,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003UOlr74EgZzQ.m4a?vkey=035DFE6C982CC1F803FA0D02A55DD28AA6877F7989650DBF3C0BC4BD4EC75F6937AF819DE6F591677CA26A7193455F780E22DD3AA9F0569D&guid=9602668140&uin=0&fromtag=66",
+            "serial": 24,
+            "imgurl": "static/songs/Dislike/只想与你再一起 (《再创世纪》电视剧片尾曲)/只想与你再一起 (《再创世纪》电视剧片尾曲).png",
+            "songurl": "static/songs/Like/只想与你再一起 (《再创世纪》电视剧片尾曲)/只想与你再一起 (《再创世纪》电视剧片尾曲).mp3"
+        },
+        {
+            "songmid": "004Cm3FM19yzDQ",
+            "songname": "只想对你好",
+            "singername": "徐真真",
+            "songtime": 245,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004Cm3FM19yzDQ.m4a?vkey=645555A1D5B01BFB5A0A129B6D14C74F0AD74041877072FDF02EECDFC64B1C73152DB41210101ED7DE14E754B82C073795EF2142C267D817&guid=9602668140&uin=0&fromtag=66",
+            "serial": 25,
+            "imgurl": "static/songs/Dislike/只想对你好/只想对你好.png",
+            "songurl": "static/songs/Like/只想对你好/只想对你好.mp3"
+        },
+        {
+            "songmid": "004fC9b80XHaaq",
+            "songname": "可以爱你真好",
+            "singername": "蔡健雅",
+            "songtime": 186,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004fC9b80XHaaq.m4a?vkey=FC2C9161E3EA690CFA835D65D4E3936F2D38CD4C8C03CBE51D3C0DB5038180B9C543FE2387FBF4CEFB1E47EC473E6AFA1393540173C6F154&guid=9602668140&uin=0&fromtag=66",
+            "serial": 26,
+            "imgurl": "static/songs/Dislike/可以爱你真好/可以爱你真好.png",
+            "songurl": "static/songs/Like/可以爱你真好/可以爱你真好.mp3"
+        },
+        {
+            "songmid": "002K8HEt2Ng0f4",
+            "songname": "叶雪",
+            "singername": "简弘亦",
+            "songtime": 314,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002K8HEt2Ng0f4.m4a?vkey=6896E1E05308C442FB512B54BF1F22EA2161AC007D41DEDE721014645C45657B4AFE8121F000082DB57D1E9358F25E70BAD054FB3369CC0D&guid=9602668140&uin=0&fromtag=66",
+            "serial": 27,
+            "imgurl": "static/songs/Dislike/叶雪/叶雪.png",
+            "songurl": "static/songs/Like/叶雪/叶雪.mp3"
+        },
+        {
+            "songmid": "001sLAMq3G3z1N",
+            "songname": "哎呀姑妈 (《李茶的姑妈》电影推广曲)",
+            "singername": "王菊",
+            "songtime": 137,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001sLAMq3G3z1N.m4a?vkey=EA036848002B56FF000699C12EC6218840CE562E1AFAAC3F8B9A30C59085F8FC6BAEAA691ABC0EC0D6A380A4BD2E286210C1BAF07CB1A46A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 28,
+            "imgurl": "static/songs/Dislike/哎呀姑妈 (《李茶的姑妈》电影推广曲)/哎呀姑妈 (《李茶的姑妈》电影推广曲).png",
+            "songurl": "static/songs/Like/哎呀姑妈 (《李茶的姑妈》电影推广曲)/哎呀姑妈 (《李茶的姑妈》电影推广曲).mp3"
+        },
+        {
+            "songmid": "0035HZOh1kKrSB",
+            "songname": "因为爱所以爱",
+            "singername": "谢霆锋",
+            "songtime": 263,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000035HZOh1kKrSB.m4a?vkey=51147DB9F7B78F38DADD6DC8A6103E9EDFFAB6F11D909D45586639711CFC0BCCB23DB5EEBB6B8526E771CD1131DDC8EEFC3E96ECF5233DE1&guid=9602668140&uin=0&fromtag=66",
+            "serial": 29,
+            "imgurl": "static/songs/Dislike/因为爱所以爱/因为爱所以爱.png",
+            "songurl": "static/songs/Like/因为爱所以爱/因为爱所以爱.mp3"
+        },
+        {
+            "songmid": "001BqoH92Me5XP",
+            "songname": "坏朋友",
+            "singername": "阿杜",
+            "songtime": 249,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001BqoH92Me5XP.m4a?vkey=1EEA4E5A62718DB5ADC63DE2AADBA0297BC294EA7AD0C4A70D5E836A295C60D9B22CC97179B7CD672EB5F3D7840B7CFABCC04D0B332F6B30&guid=9602668140&uin=0&fromtag=66",
+            "serial": 30,
+            "imgurl": "static/songs/Dislike/坏朋友/坏朋友.png",
+            "songurl": "static/songs/Like/坏朋友/坏朋友.mp3"
+        },
+        {
+            "songmid": "004Kdkts0UGJgW",
+            "songname": "大男孩",
+            "singername": "Boy'z",
+            "songtime": 235,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004Kdkts0UGJgW.m4a?vkey=D115E7A6E7877ECDE57E8E62498A1854B8871FAC6667F124A3CC74A6BEE4427254245C9191489FE29BA8FBAFE179E2C9BB80205DCEF0A858&guid=9602668140&uin=0&fromtag=66",
+            "serial": 31,
+            "imgurl": "static/songs/Dislike/大男孩/大男孩.png",
+            "songurl": "static/songs/Like/大男孩/大男孩.mp3"
+        },
+        {
+            "songmid": "000Xk9eY0SfdDf",
+            "songname": "天生一对",
+            "singername": "郭采洁 / 张栋梁",
+            "songtime": 213,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000Xk9eY0SfdDf.m4a?vkey=D5C94F12741A68C00225FED91B4A762B188DC53FB7ED8EAF2D53F1ABCE6A1D52CF5CE9BCE010ACF87A8A2A493EE885E2596BCC1052B856BD&guid=9602668140&uin=0&fromtag=66",
+            "serial": 32,
+            "imgurl": "static/songs/Dislike/天生一对/天生一对.png",
+            "songurl": "static/songs/Like/天生一对/天生一对.mp3"
+        },
+        {
+            "songmid": "003NB9tt12a70d",
+            "songname": "如河 (《悲伤逆流成河》电影主题曲)",
+            "singername": "张韶涵",
+            "songtime": 230,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003NB9tt12a70d.m4a?vkey=BC9DBBCC02BD04D2E27D15AA587070634CF0E85B2BDA459C2A25BF863E5F6D8878A9F0136FBC75CC3A40E7ACFBFC35B26EC0803E72254270&guid=9602668140&uin=0&fromtag=66",
+            "serial": 33,
+            "imgurl": "static/songs/Dislike/如河 (《悲伤逆流成河》电影主题曲)/如河 (《悲伤逆流成河》电影主题曲).png",
+            "songurl": "static/songs/Like/如河 (《悲伤逆流成河》电影主题曲)/如河 (《悲伤逆流成河》电影主题曲).mp3"
+        },
+        {
+            "songmid": "002DrWke4BzFtv",
+            "songname": "宝贝 (in a day) (《绝对计划》电视剧插曲)",
+            "singername": "张悬",
+            "songtime": 142,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002DrWke4BzFtv.m4a?vkey=A000FFE17DD511EDAE15E1DFD97073952A6419B5D461422245C086DF4D335540E363CBEA50C960CAB84C1C30F8539DBEFD3E1A030C95E35A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 34,
+            "imgurl": "static/songs/Dislike/宝贝 (in a day) (《绝对计划》电视剧插曲)/宝贝 (in a day) (《绝对计划》电视剧插曲).png",
+            "songurl": "static/songs/Like/宝贝 (in a day) (《绝对计划》电视剧插曲)/宝贝 (in a day) (《绝对计划》电视剧插曲).mp3"
+        },
+        {
+            "songmid": "0031BDAJ1G7Uit",
+            "songname": "寄居蟹与蜗牛",
+            "singername": "HUSH",
+            "songtime": 266,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000031BDAJ1G7Uit.m4a?vkey=6514ABC351BA74FF91258D52E92975C23376766930391B570D98CC6C845630221F84750FE6D150A72C329373DD9D22D69103D15BCFEB1010&guid=9602668140&uin=0&fromtag=66",
+            "serial": 35,
+            "imgurl": "static/songs/Dislike/寄居蟹与蜗牛/寄居蟹与蜗牛.png",
+            "songurl": "static/songs/Like/寄居蟹与蜗牛/寄居蟹与蜗牛.mp3"
+        },
+        {
+            "songmid": "0001VgdR3ewNc8",
+            "songname": "小爱情",
+            "singername": "梁静茹",
+            "songtime": 245,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000001VgdR3ewNc8.m4a?vkey=B4008F3A245480C1C16C756CBE5B35F24CF86F189976C248CF48355A2C08A72496D1BD31706E6A327EAA27947ACBE47760F6AA472147C000&guid=9602668140&uin=0&fromtag=66",
+            "serial": 36,
+            "imgurl": "static/songs/Dislike/小爱情/小爱情.png",
+            "songurl": "static/songs/Like/小爱情/小爱情.mp3"
+        },
+        {
+            "songmid": "004W7UED0x3pqD",
+            "songname": "就是爱你",
+            "singername": "陶喆",
+            "songtime": 263,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004W7UED0x3pqD.m4a?vkey=2F721E5BBEFDF82FCAE6AD19D6B51488D595D5F2BD464F44E1D80176A4F038D24793047278B04CD7D0887E30AF756A52857C1B746FCD2A05&guid=9602668140&uin=0&fromtag=66",
+            "serial": 37,
+            "imgurl": "static/songs/Dislike/就是爱你/就是爱你.png",
+            "songurl": "static/songs/Like/就是爱你/就是爱你.mp3"
+        },
+        {
+            "songmid": "004WxLX70fj5sP",
+            "songname": "尽力呼吸 (《身后事务所》电视剧主题曲)",
+            "singername": "岑宁儿",
+            "songtime": 236,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004WxLX70fj5sP.m4a?vkey=B8AFB23CAEDA48C7A656A58F006BC3627B3C1D0F6F9863B6B08447EB6D0E39A5F74F72B4980F952C1C49550418020CF34BFA11C38E5491B8&guid=9602668140&uin=0&fromtag=66",
+            "serial": 38,
+            "imgurl": "static/songs/Dislike/尽力呼吸 (《身后事务所》电视剧主题曲)/尽力呼吸 (《身后事务所》电视剧主题曲).png",
+            "songurl": "static/songs/Like/尽力呼吸 (《身后事务所》电视剧主题曲)/尽力呼吸 (《身后事务所》电视剧主题曲).mp3"
+        },
+        {
+            "songmid": "001ZQTKV1LvJHQ",
+            "songname": "平遥谣",
+            "singername": "赵照",
+            "songtime": 280,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001ZQTKV1LvJHQ.m4a?vkey=DD47361DBBB549052E0658A3ED40C1D87EDD686D5B128DE37DA230F11C62EA8B8D1557AA9F69470F3B1E05F62FC4C072FFE407373F02D414&guid=9602668140&uin=0&fromtag=66",
+            "serial": 39,
+            "imgurl": "static/songs/Dislike/平遥谣/平遥谣.png",
+            "songurl": "static/songs/Like/平遥谣/平遥谣.mp3"
+        },
+        {
+            "songmid": "004ZS8j10P2n4d",
+            "songname": "张家明和婉君",
+            "singername": "李荣浩",
+            "songtime": 246,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004ZS8j10P2n4d.m4a?vkey=5732D6AFDBD95065FFBD625E4E2BD47D76DB5C1060DDAD8EA2FD7920777162D546DF539FFD29147EE1AE376C67B888326D3F095C3DF4B607&guid=9602668140&uin=0&fromtag=66",
+            "serial": 40,
+            "imgurl": "static/songs/Dislike/张家明和婉君/张家明和婉君.png",
+            "songurl": "static/songs/Like/张家明和婉君/张家明和婉君.mp3"
+        },
+        {
+            "songmid": "001JkEa81adcGY",
+            "songname": "微凉的风",
+            "singername": "何洁",
+            "songtime": 203,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001JkEa81adcGY.m4a?vkey=6A1C21A432C75809436A428806292DC6FE124AC9D83C217974DE4AF9BB867F152930A99318B62462D2E973BC223697C86CA9CE3945F4E010&guid=9602668140&uin=0&fromtag=66",
+            "serial": 41,
+            "imgurl": "static/songs/Dislike/微凉的风/微凉的风.png",
+            "songurl": "static/songs/Like/微凉的风/微凉的风.mp3"
+        },
+        {
+            "songmid": "00110RP04EwIbi",
+            "songname": "心光 (《橙红年代》电视剧插曲)",
+            "singername": "张杰",
+            "songtime": 254,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C40000110RP04EwIbi.m4a?vkey=A097984BF513971A4AFAC182B1F8B7D7312DA38A484122A8033ADE54FDE5AA3ED3410BA2835F0DE9D0702A3360338991DDA64159954AABFB&guid=9602668140&uin=0&fromtag=66",
+            "serial": 42,
+            "imgurl": "static/songs/Dislike/心光 (《橙红年代》电视剧插曲)/心光 (《橙红年代》电视剧插曲).png",
+            "songurl": "static/songs/Like/心光 (《橙红年代》电视剧插曲)/心光 (《橙红年代》电视剧插曲).mp3"
+        },
+        {
+            "songmid": "000fIVRG0lsVUH",
+            "songname": "心动拍拍",
+            "singername": "陈芳语",
+            "songtime": 186,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000fIVRG0lsVUH.m4a?vkey=E839383E7BB001309B371F7D634B4E2B1002A1F132975B6D878DB983F53FA7FC1F06BF889685062A201D897E7F306736052AEB3BB6C059D8&guid=9602668140&uin=0&fromtag=66",
+            "serial": 43,
+            "imgurl": "static/songs/Dislike/心动拍拍/心动拍拍.png",
+            "songurl": "static/songs/Like/心动拍拍/心动拍拍.mp3"
+        },
+        {
+            "songmid": "000AIJ5k25psUB",
+            "songname": "恋爱达人",
+            "singername": "罗志祥 / 徐熙娣",
+            "songtime": 210,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000AIJ5k25psUB.m4a?vkey=D9636030A75CFF85B9FC6BD86E7109921C74B69F5F1C6A9665882FB153DF974BEE6AC65D7EBB27848885DD3D2309C14536295BCD5A7620E9&guid=9602668140&uin=0&fromtag=66",
+            "serial": 44,
+            "imgurl": "static/songs/Dislike/恋爱达人/恋爱达人.png",
+            "songurl": "static/songs/Like/恋爱达人/恋爱达人.mp3"
+        },
+        {
+            "songmid": "001vKhWe0YxMev",
+            "songname": "想象",
+            "singername": "摩登兄弟刘宇宁",
+            "songtime": 273,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001vKhWe0YxMev.m4a?vkey=8B31F5FF40AACE13B887746B314FCDFD5AC1FE0DAD9CB15BB78BDAAB915943EE6E950C76BF58DB31C31511B38C939E60EAD214CA756C2BCE&guid=9602668140&uin=0&fromtag=66",
+            "serial": 45,
+            "imgurl": "static/songs/Dislike/想象/想象.png",
+            "songurl": "static/songs/Like/想象/想象.mp3"
+        },
+        {
+            "songmid": "000fuAn41jvFbE",
+            "songname": "我一直在这里",
+            "singername": "李玉刚",
+            "songtime": 243,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000fuAn41jvFbE.m4a?vkey=F826DDCA8A8017A330D01D14FC325254130358D2DDE3626D8A5B8392E4A1916A2CFBD6FD2B781580849ABF72B60A66E6E09F7E12C09C8106&guid=9602668140&uin=0&fromtag=66",
+            "serial": 46,
+            "imgurl": "static/songs/Dislike/我一直在这里/我一直在这里.png",
+            "songurl": "static/songs/Like/我一直在这里/我一直在这里.mp3"
+        },
+        {
+            "songmid": "000NqZLy2lfXjT",
+            "songname": "我们的歌",
+            "singername": "王力宏",
+            "songtime": 247,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000NqZLy2lfXjT.m4a?vkey=FDD78E91BD2EE9DDA02973169905EA662D7C5134735E12958AE424F19441BE6EE81725F1AF4560EE609EB449268342055764E0391232C8D2&guid=9602668140&uin=0&fromtag=66",
+            "serial": 47,
+            "imgurl": "static/songs/Dislike/我们的歌/我们的歌.png",
+            "songurl": "static/songs/Like/我们的歌/我们的歌.mp3"
+        },
+        {
+            "songmid": "000JATzt4MqJqP",
+            "songname": "我只在乎你",
+            "singername": "邓丽君",
+            "songtime": 256,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000JATzt4MqJqP.m4a?vkey=C1924F71F3C1D7BB2754D1A5181E8685DAABAAA748802F5047C5A5681EB59A2CEE140FCC7EB133F3D1EB71790B10C9239B64E5CE2E356FB9&guid=9602668140&uin=0&fromtag=66",
+            "serial": 48,
+            "imgurl": "static/songs/Dislike/我只在乎你/我只在乎你.png",
+            "songurl": "static/songs/Like/我只在乎你/我只在乎你.mp3"
+        },
+        {
+            "songmid": "002OTYCx3X4bRN",
+            "songname": "我爱我 (《如若巴黎不快乐》电视剧插曲)",
+            "singername": "陆虎",
+            "songtime": 268,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002OTYCx3X4bRN.m4a?vkey=6774287DE4EE3A1FF55F8574400725428F041FA5A8C42BC11753A0A81DB5341D3A2342E99DC721A3833C8C2E7B8D8D5EE069D7CAE164506A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 49,
+            "imgurl": "static/songs/Dislike/我爱我 (《如若巴黎不快乐》电视剧插曲)/我爱我 (《如若巴黎不快乐》电视剧插曲).png",
+            "songurl": "static/songs/Like/我爱我 (《如若巴黎不快乐》电视剧插曲)/我爱我 (《如若巴黎不快乐》电视剧插曲).mp3"
+        },
+        {
+            "songmid": "003SeXGZ1JUtaX",
+            "songname": "我的",
+            "singername": "王俊凯",
+            "songtime": 225,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003SeXGZ1JUtaX.m4a?vkey=8450DFAA178E733B2E82127698743A9E749BCCAABDD881994EB181E9A8FB257826BF500C6C807360B676D981F160FF163C40799949D35300&guid=9602668140&uin=0&fromtag=66",
+            "serial": 50,
+            "imgurl": "static/songs/Dislike/我的/我的.png",
+            "songurl": "static/songs/Like/我的/我的.mp3"
+        },
+        {
+            "songmid": "004KD00E0elWp0",
+            "songname": "我说我爱你",
+            "singername": "辛晓琪",
+            "songtime": 276,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004KD00E0elWp0.m4a?vkey=93BA1022B4D0576B4643EAB5503FE06E71FDB133239B7C1F0F021D0577A5649EF35C2FB0829AEBBE673F1277162C9FC992C93B8EB8FAE709&guid=9602668140&uin=0&fromtag=66",
+            "serial": 51,
+            "imgurl": "static/songs/Dislike/我说我爱你/我说我爱你.png",
+            "songurl": "static/songs/Like/我说我爱你/我说我爱你.mp3"
+        },
+        {
+            "songmid": "001R0UJC4Bd7H7",
+            "songname": "暗恋 (《怦然心动备忘录》迷你剧主题曲)",
+            "singername": "BBT / 王子异",
+            "songtime": 259,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001R0UJC4Bd7H7.m4a?vkey=F5D4A00F0745237D7B0E23CF7BEF07D363B107358CE1027AE261960E754A7A666FA3AB2A11DA581BBBA1731A285BBEBD196A0395030E7A32&guid=9602668140&uin=0&fromtag=66",
+            "serial": 52,
+            "imgurl": "static/songs/Dislike/暗恋 (《怦然心动备忘录》迷你剧主题曲)/暗恋 (《怦然心动备忘录》迷你剧主题曲).png",
+            "songurl": "static/songs/Like/暗恋 (《怦然心动备忘录》迷你剧主题曲)/暗恋 (《怦然心动备忘录》迷你剧主题曲).mp3"
+        },
+        {
+            "songmid": "000GsbHD1rqtS5",
+            "songname": "最亲爱的你 (美国棉2012年度广告曲《听见他的心跳》韩剧片尾曲)",
+            "singername": "范玮琪",
+            "songtime": 284,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000GsbHD1rqtS5.m4a?vkey=F5ABC73243EEF6DA6AF8154DDF74CF34FA364F2223ACB3E5FDBD61D5D242420DC785BDE48C66901756560592E1ECB36DC14A8E71C5329DA9&guid=9602668140&uin=0&fromtag=66",
+            "serial": 53,
+            "imgurl": "static/songs/Dislike/最亲爱的你 (美国棉2012年度广告曲《听见他的心跳》韩剧片尾曲)/最亲爱的你 (美国棉2012年度广告曲《听见他的心跳》韩剧片尾曲).png",
+            "songurl": "static/songs/Like/最亲爱的你 (美国棉2012年度广告曲《听见他的心跳》韩剧片尾曲)/最亲爱的你 (美国棉2012年度广告曲《听见他的心跳》韩剧片尾曲).mp3"
+        },
+        {
+            "songmid": "004ERaM80ml3OR",
+            "songname": "最好的年纪",
+            "singername": "陈洁仪",
+            "songtime": 284,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004ERaM80ml3OR.m4a?vkey=F6FD2DCD056922FC5AD89ABF92C277B7271892F8B1EB7958C77CDC3779DD0D3F20764EB6E1834D5A00E35863392CF65E61437A1CBFD7DECE&guid=9602668140&uin=0&fromtag=66",
+            "serial": 54,
+            "imgurl": "static/songs/Dislike/最好的年纪/最好的年纪.png",
+            "songurl": "static/songs/Like/最好的年纪/最好的年纪.mp3"
+        },
+        {
+            "songmid": "000q9VdT1X5res",
+            "songname": "最重要的决定",
+            "singername": "范玮琪",
+            "songtime": 244,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000q9VdT1X5res.m4a?vkey=D327CBB221F72976C5DC95B52EE37921F118001A5A9A38FE29E1B7F90AD660865243B52C7C9EDD92B95A9DB425BA53D0261499460C769B2C&guid=9602668140&uin=0&fromtag=66",
+            "serial": 55,
+            "imgurl": "static/songs/Dislike/最重要的决定/最重要的决定.png",
+            "songurl": "static/songs/Like/最重要的决定/最重要的决定.mp3"
+        },
+        {
+            "songmid": "002shhqx11r834",
+            "songname": "月儿高高挂",
+            "singername": "刘心",
+            "songtime": 281,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002shhqx11r834.m4a?vkey=4FC386EC3DF263284ABA2536E3DB3D44C4AB8CB3A76337CDA605C659669FAC37B4C5B37B54D5E1AF6DA50FEE2343AF1D407253326827A338&guid=9602668140&uin=0&fromtag=66",
+            "serial": 56,
+            "imgurl": "static/songs/Dislike/月儿高高挂/月儿高高挂.png",
+            "songurl": "static/songs/Like/月儿高高挂/月儿高高挂.mp3"
+        },
+        {
+            "songmid": "002fJYwl23Wvf9",
+            "songname": "月光",
+            "singername": "熊汝霖",
+            "songtime": 290,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002fJYwl23Wvf9.m4a?vkey=82A1D5C189D91815B2B38C2D1F764EC0481DBEDEE382911463589ACB99F2358FE4C1C0C6880DDC0D5333BFAE6825D8027A7532AC03E5EB69&guid=9602668140&uin=0&fromtag=66",
+            "serial": 57,
+            "imgurl": "static/songs/Dislike/月光/月光.png",
+            "songurl": "static/songs/Like/月光/月光.mp3"
+        },
+        {
+            "songmid": "0016aKOG0a6vEg",
+            "songname": "有没有人",
+            "singername": "刘思涵",
+            "songtime": 242,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000016aKOG0a6vEg.m4a?vkey=F4317E97878B6B170C229844CCB7380DD8AE7B472C59F3E910F22E8E5E80E244D8932F9AEB3BC9D62B08C5BBB1D723D5102CF50917CE365A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 58,
+            "imgurl": "static/songs/Dislike/有没有人/有没有人.png",
+            "songurl": "static/songs/Like/有没有人/有没有人.mp3"
+        },
+        {
+            "songmid": "0045cg3F4by0Dx",
+            "songname": "浪漫爱",
+            "singername": "江语晨",
+            "songtime": 250,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000045cg3F4by0Dx.m4a?vkey=9989E4F92EC04E9DF9FE9737E850837FC0CAA2B334BB9AF1AB85B0F244BC94E91174B38509B6A650A8E5EF2A1AA6761A32A86D0C827B9B9B&guid=9602668140&uin=0&fromtag=66",
+            "serial": 59,
+            "imgurl": "static/songs/Dislike/浪漫爱/浪漫爱.png",
+            "songurl": "static/songs/Like/浪漫爱/浪漫爱.mp3"
+        },
+        {
+            "songmid": "0003FhfU2GR1tu",
+            "songname": "爱你",
+            "singername": "王心凌",
+            "songtime": 219,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000003FhfU2GR1tu.m4a?vkey=9989E4F92EC04E9DF9FE9737E850837FC0CAA2B334BB9AF12BCEE6AF9009E8AA059A4D7C12B058484B76DFDC0B1C0B1E304E570592639B2D&guid=9602668140&uin=0&fromtag=66",
+            "serial": 60,
+            "imgurl": "static/songs/Dislike/爱你/爱你.png",
+            "songurl": "static/songs/Like/爱你/爱你.mp3"
+        },
+        {
+            "songmid": "002T5xzS0greV5",
+            "songname": "猫语 (《爱猫之城》电影推广曲)",
+            "singername": "KiKi富妍",
+            "songtime": 183,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002T5xzS0greV5.m4a?vkey=87E8D1551FC6AAA4C465198F6FDFDEB4931F4078E65BF6F4F88436BB98619416A3FC27A7DD581EBE93AB3EC91B4142B44141A7CA7EB68FA9&guid=9602668140&uin=0&fromtag=66",
+            "serial": 61,
+            "imgurl": "static/songs/Dislike/猫语 (《爱猫之城》电影推广曲)/猫语 (《爱猫之城》电影推广曲).png",
+            "songurl": "static/songs/Like/猫语 (《爱猫之城》电影推广曲)/猫语 (《爱猫之城》电影推广曲).mp3"
+        },
+        {
+            "songmid": "000xdZuV2LcQ19",
+            "songname": "甜甜的",
+            "singername": "周杰伦",
+            "songtime": 243,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000xdZuV2LcQ19.m4a?vkey=B153576A89278688A0C19FCF9D36767AFD94D4BEA3C453CBDEC7CA2959E185568CC27C65C82731670037FFA1B6AA24F460951A88B7D066D0&guid=9602668140&uin=0&fromtag=66",
+            "serial": 62,
+            "imgurl": "static/songs/Dislike/甜甜的/甜甜的.png",
+            "songurl": "static/songs/Like/甜甜的/甜甜的.mp3"
+        },
+        {
+            "songmid": "003kiXga14xgvg",
+            "songname": "白日梦",
+            "singername": "那吾克热LIL-EM / DK",
+            "songtime": 190,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003kiXga14xgvg.m4a?vkey=C2377B4E1751CA167E6913E9BF42F6912B93BBA0987491A32B97476553467E3D3E716F0E75F60A6E9D608A7CC217C6471F08050079AD5DB6&guid=9602668140&uin=0&fromtag=66",
+            "serial": 63,
+            "imgurl": "static/songs/Dislike/白日梦/白日梦.png",
+            "songurl": "static/songs/Like/白日梦/白日梦.mp3"
+        },
+        {
+            "songmid": "003aTzQ337kfGP",
+            "songname": "神奇伙伴 (浙江卫视《神奇伙伴去哪里》主题曲)",
+            "singername": "汪苏泷",
+            "songtime": 214,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003aTzQ337kfGP.m4a?vkey=4FDCADA7AEC153D228905D59CB68E89FCB78A6BAC4717CF037D2F70D9E7AD50E533EE94A77857B36070686015B3920822FDE00A614FC5EE7&guid=9602668140&uin=0&fromtag=66",
+            "serial": 64,
+            "imgurl": "static/songs/Dislike/神奇伙伴 (浙江卫视《神奇伙伴去哪里》主题曲)/神奇伙伴 (浙江卫视《神奇伙伴去哪里》主题曲).png",
+            "songurl": "static/songs/Like/神奇伙伴 (浙江卫视《神奇伙伴去哪里》主题曲)/神奇伙伴 (浙江卫视《神奇伙伴去哪里》主题曲).mp3"
+        },
+        {
+            "songmid": "004381sM0dmnco",
+            "songname": "自在天",
+            "singername": "好妹妹",
+            "songtime": 233,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004381sM0dmnco.m4a?vkey=D5FA9C9597832B9E8BADC66EAB7334BC39AA726C13EE83E9F97852C43FD4DB94509952B35386A0F71617C4D3473C3595A9E910F002636236&guid=9602668140&uin=0&fromtag=66",
+            "serial": 65,
+            "imgurl": "static/songs/Dislike/自在天/自在天.png",
+            "songurl": "static/songs/Like/自在天/自在天.mp3"
+        },
+        {
+            "songmid": "004UsE9Y0wdTuj",
+            "songname": "花开的声音",
+            "singername": "张靓颖",
+            "songtime": 285,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400004UsE9Y0wdTuj.m4a?vkey=631D3FD58E8AF34BDBA59341939ABFA4FE1133C2EE4F6BDF0E04DD9BCEC7282525CEA198A1897A9ECB36EC746DBEB28FECDC5CA5682C5502&guid=9602668140&uin=0&fromtag=66",
+            "serial": 66,
+            "imgurl": "static/songs/Dislike/花开的声音/花开的声音.png",
+            "songurl": "static/songs/Like/花开的声音/花开的声音.mp3"
+        },
+        {
+            "songmid": "003zHrDg1IktpZ",
+            "songname": "花粉症",
+            "singername": "许茹芸",
+            "songtime": 320,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003zHrDg1IktpZ.m4a?vkey=C8D8324DCC58278072528374D3AACC429B29F0EF787365B73117D357EC762324C40E4693BA6118C6B5B9A46F7587446DC9361F3BB2BE9C74&guid=9602668140&uin=0&fromtag=66",
+            "serial": 67,
+            "imgurl": "static/songs/Dislike/花粉症/花粉症.png",
+            "songurl": "static/songs/Like/花粉症/花粉症.mp3"
+        },
+        {
+            "songmid": "0035mhUv2pyscu",
+            "songname": "表白",
+            "singername": "萧亚轩",
+            "songtime": 209,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000035mhUv2pyscu.m4a?vkey=065C2DA5F8BCB464E836EC1392C8CC9162F3BE9C022717C1AA5E31015391AEEC65DB5293237024300A975E47EE0B2E8D3032837F75626256&guid=9602668140&uin=0&fromtag=66",
+            "serial": 68,
+            "imgurl": "static/songs/Dislike/表白/表白.png",
+            "songurl": "static/songs/Like/表白/表白.mp3"
+        },
+        {
+            "songmid": "0044YEe13yay1W",
+            "songname": "让我闪耀 (《QQ炫舞手游》半周年庆主题曲)",
+            "singername": "李子璇",
+            "songtime": 184,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000044YEe13yay1W.m4a?vkey=02A82D01DD0F7837FADD5114DDC213328956BA7225A15685768E8EBD8D508BB3D4581D35991B54A8E1070692453BD7630B21A236F7DCE38A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 69,
+            "imgurl": "static/songs/Dislike/让我闪耀 (《QQ炫舞手游》半周年庆主题曲)/让我闪耀 (《QQ炫舞手游》半周年庆主题曲).png",
+            "songurl": "static/songs/Like/让我闪耀 (《QQ炫舞手游》半周年庆主题曲)/让我闪耀 (《QQ炫舞手游》半周年庆主题曲).mp3"
+        },
+        {
+            "songmid": "000HR0P22t9WL8",
+            "songname": "跟着我一起",
+            "singername": "杨超越",
+            "songtime": 131,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000HR0P22t9WL8.m4a?vkey=06DA1C004A3D6F547B59AFD55FD7F96C8A3A33868CF3682CBD7354FE020B0566B9BEC95B88B06ECBA7C5E033C03CC0A1EC2DB3D3AE9ACCBA&guid=9602668140&uin=0&fromtag=66",
+            "serial": 70,
+            "imgurl": "static/songs/Dislike/跟着我一起/跟着我一起.png",
+            "songurl": "static/songs/Like/跟着我一起/跟着我一起.mp3"
+        },
+        {
+            "songmid": "0032ZOkm0LBgHW",
+            "songname": "违背的青春 (致不易青年主题曲)",
+            "singername": "薛之谦",
+            "songtime": 336,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C4000032ZOkm0LBgHW.m4a?vkey=CBADDB25B2A4BB18997F8D879430BCFA9E607DC03AF658E1268AB0371B0AB1085DB04DAD3F4299FDA8691B0CD260B283DFF177088401767A&guid=9602668140&uin=0&fromtag=66",
+            "serial": 71,
+            "imgurl": "static/songs/Dislike/违背的青春 (致不易青年主题曲)/违背的青春 (致不易青年主题曲).png",
+            "songurl": "static/songs/Like/违背的青春 (致不易青年主题曲)/违背的青春 (致不易青年主题曲).mp3"
+        },
+        {
+            "songmid": "000m91My1vaWe1",
+            "songname": "通过验证",
+            "singername": "艾福杰尼",
+            "songtime": 217,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000m91My1vaWe1.m4a?vkey=5D2681491CD96FFC881965913D43574C4D7FA4EEFD344EB1605C55F78DBB130D6AF55C85CDC57A600782C6F7935A836CE0A945BDE5DE4C34&guid=9602668140&uin=0&fromtag=66",
+            "serial": 72,
+            "imgurl": "static/songs/Dislike/通过验证/通过验证.png",
+            "songurl": "static/songs/Like/通过验证/通过验证.mp3"
+        },
+        {
+            "songmid": "000n0TJV3DDsIR",
+            "songname": "遇见飞天 (王者荣耀敦煌飞天主打歌)",
+            "singername": "韩红",
+            "songtime": 271,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000n0TJV3DDsIR.m4a?vkey=68F1A5E814A9FD208F85145C61AF84D89899CC2FEF359088860C0D4C493EE9F551CFB1E967FE14EFFE919E6E5F4156248C5906E7B1C64942&guid=9602668140&uin=0&fromtag=66",
+            "serial": 73,
+            "imgurl": "static/songs/Dislike/遇见飞天 (王者荣耀敦煌飞天主打歌)/遇见飞天 (王者荣耀敦煌飞天主打歌).png",
+            "songurl": "static/songs/Like/遇见飞天 (王者荣耀敦煌飞天主打歌)/遇见飞天 (王者荣耀敦煌飞天主打歌).mp3"
+        },
+        {
+            "songmid": "002TqCZA0wU7dU",
+            "songname": "阿飞的小蝴蝶",
+            "singername": "萧敬腾",
+            "songtime": 256,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400002TqCZA0wU7dU.m4a?vkey=2A4806FC9EF4872C2E55B509DFC27F9E655605AEFB4A3CBEDA858E08B6C5D3D16FC64A3082F4D1CD98A0BF19905271D956AB3C9D4539F876&guid=9602668140&uin=0&fromtag=66",
+            "serial": 74,
+            "imgurl": "static/songs/Dislike/阿飞的小蝴蝶/阿飞的小蝴蝶.png",
+            "songurl": "static/songs/Like/阿飞的小蝴蝶/阿飞的小蝴蝶.mp3"
+        },
+        {
+            "songmid": "001S8WEZ30ypni",
+            "songname": "陌生的婚礼",
+            "singername": "贰佰",
+            "songtime": 390,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400001S8WEZ30ypni.m4a?vkey=55225F1B0200F6A60FAFD9A7F4296C9AA5903159A78369250FE0B31DAA0FED4AEB90210F7FE1278263745B08D6B7362812DC37A40AE17324&guid=9602668140&uin=0&fromtag=66",
+            "serial": 75,
+            "imgurl": "static/songs/Dislike/陌生的婚礼/陌生的婚礼.png",
+            "songurl": "static/songs/Like/陌生的婚礼/陌生的婚礼.mp3"
+        },
+        {
+            "songmid": "000ifZzL3T9cUI",
+            "songname": "非常爱你",
+            "singername": "任贤齐",
+            "songtime": 234,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400000ifZzL3T9cUI.m4a?vkey=48694DD1291B5677F9B9E8A5804A1F95B15B975F9CC2AB525C8F417622F98B13CBCE4E33EB221FF72AF3935B079DB5127363C0FA4E7A3134&guid=9602668140&uin=0&fromtag=66",
+            "serial": 76,
+            "imgurl": "static/songs/Dislike/非常爱你/非常爱你.png",
+            "songurl": "static/songs/Like/非常爱你/非常爱你.mp3"
+        },
+        {
+            "songmid": "003lOhL83UjDpH",
+            "songname": "高贵与卑微",
+            "singername": "胡彦斌",
+            "songtime": 224,
+            "musicurl": "http://dl.stream.qqmusic.qq.com/C400003lOhL83UjDpH.m4a?vkey=0C88E996318D4764286B082C9122156B09946AE8B46B2D64CBB11FB6B6D1ED023349AA605895B6928C4F592754D7E8540F1A054446DCF349&guid=9602668140&uin=0&fromtag=66",
+            "serial": 77,
+            "imgurl": "static/songs/Dislike/高贵与卑微/高贵与卑微.png",
+            "songurl": "static/songs/Like/高贵与卑微/高贵与卑微.mp3"
+        }
+    ]
+}
